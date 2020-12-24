@@ -1,0 +1,109 @@
+.container{
+    max-width: 1640px;
+    width: 100%;
+    padding-top: 55px;
+    margin: 0 auto;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    height: 90px;
+
+}
+.navbar-ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'ArchyEDT';
+}
+.anavigation{
+    font-size: 20px;
+    color: #707070;
+    padding: 0 25px;
+    font-family: 'ArchyEDT';
+}
+.search{
+    padding-left: 20px;
+}
+.banner{
+    width: 100%;
+    padding: 10px 0 90px ;
+}
+.section-title{
+    margin-bottom: 70px;
+    font-size: 40px;
+    color: #707070 ;
+    border-radius: 100% solid #707070;
+    font-family: 'ArchyEDT';
+}
+.div{
+    padding-bottom: 60px;
+}
+.div1{
+    position: relative;
+    height: 570px;
+    width: 485px;
+    box-shadow: 0px 4px 10px #707070;
+}
+.box-title{
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'ArchyEDT'; 
+    color: #707070;
+    border-radius: 100% solid #707070;
+}
+.box-p{
+    padding: 30px 10px 70px 10px;
+    font-size: 18px;
+    font-family: 'Pierre Dingbats';
+    color: #707070;
+    border-radius: 100% solid #707070;
+}
+.div1 span{
+    position: absolute;
+    left: 415px;
+    bottom: 35px;
+    font-size: 24px;
+    color: #707070;
+    font-family: 'Pierre Dingbats';
+    border-radius: 100% solid #707070;
+}
+.text{
+    text-align: center;
+    padding-bottom: 60px;
+    font-family: 'ArchyEDT' ;
+    font-size: 30px;
+    color: #707070;
+    border-radius: 100% solid #707070;
+}
+.footer{
+    height: 200px;
+    width: 100%;
+    background-color: #2E2E2E;
+}
+.soc-navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.soc-li{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    font-size:19px;
+    font-family: 'ArchyEDT' ;
+}
+.contact
+{
+    font-size:19px;
+    font-family: 'ArchyEDT' ;
+    color:white;
+}
+
+
+
+
+
